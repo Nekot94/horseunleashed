@@ -1,0 +1,96 @@
+{
+    "houses":[
+        {
+            "type": "living",
+            "color": "F1F5FF",
+            "floorCount": 12
+        },
+        {
+            "type": "living",
+            "color": "0000FF",
+            "floorCount": 4
+        },
+        {
+            "type": "living",
+            "color": "0000FF",
+            "floorCount": 4
+        },
+        {
+            "type": "living",
+            "color": "0000FF",
+            "floorCount": 4
+        },
+        {
+            "type": "living",
+            "color": "0000FF",
+            "floorCount": 4
+        },
+        {
+            "type": "living",
+            "color": "000000",
+            "floorCount": 89
+        },
+        {
+            "type": "hospital",
+            "color": "00FFFF",
+            "floorCount": 7
+        },
+        {
+            "type": "school",
+            "color": "0000FF",
+            "floorCount": 1
+        },
+        {
+            "type": "school",
+            "color": "FFFFFF",
+            "floorCount": 10
+        },
+        {
+            "type": "townHall",
+            "color": "00FF00",
+            "floorCount": 4
+        }
+    ],
+    "people": [
+        {
+            "name": "Dima",
+            "gender": "male",
+            "age": 88          
+        },
+        {
+            "name": "Lenya",
+            "gender": "male",
+            "age": 12          
+        },
+        {
+            "name": "Amogus",
+            "gender": "male",
+            "age":3          
+        },
+        {
+            "name": "Krasotka05",
+            "gender": "female",
+            "age": 32          
+        },
+        {
+            "name": "Joseph Joestar",
+            "gender": "male",
+            "age": 90          
+        },
+        {
+            "name": "Dora",
+            "gender": "female",
+            "age": 21         
+        },
+        {
+            "name": "Ali Valeev",
+            "gender": "male",
+            "age": 23          
+        },
+        {
+            "name": "Kitana",
+            "gender": "female",
+            "age": 10000          
+        }
+    ]
+}
