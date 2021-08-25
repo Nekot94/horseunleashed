@@ -1,0 +1,336 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "cars",
+            "prewiewImage": "cimage001",
+            "insideIcon": "cicon001"
+        },
+        {
+            "id": 2,
+            "name": "halloween",
+            "prewiewImage": "cimage002",
+            "insideIcon": "cicon002"
+        },
+        {
+            "id": 3,
+            "name": "dinasaurs",
+            "prewiewImage": "cimage003",
+            "insideIcon": "cicon003"
+        },
+        {
+            "id": 4,
+            "name": "monster",
+            "prewiewImage": "cimage004",
+            "insideIcon": "cicon004"
+        },
+        {
+            "id": 5,
+            "name": "pirates",
+            "prewiewImage": "cimage005",
+            "insideIcon": "cicon005"
+
+        },
+        {
+            "id": 6,
+            "name": "geometry",
+            "prewiewImage": "cimage002",
+            "insideIcon": "cicon002"
+        },
+        {
+            "id": 7,
+            "name": "unicorns",
+            "prewiewImage": "cimage003",
+            "insideIcon": "cicon003"
+        },
+        {
+            "id": 8,
+            "name": "contraptions",
+            "prewiewImage": "cimage004",
+            "insideIcon": "cicon004"
+        },
+        {
+            "id": 9,
+            "name": "underwater",
+            "prewiewImage": "cimage005",
+            "insideIcon": "cicon005"
+
+        },
+        {
+            "id": 10,
+            "name": "songs",
+            "prewiewImage": "cimage002",
+            "insideIcon": "cicon002"
+        },
+        {
+            "id": 11,
+            "name": "pets",
+            "prewiewImage": "cimage003",
+            "insideIcon": "cicon003"
+        },
+        {
+            "id": 12,
+            "name": "forest",
+            "prewiewImage": "cimage004",
+            "insideIcon": "cicon004"
+        },
+        {
+            "id": 13,
+            "name": "space",
+            "prewiewImage": "cimage005",
+            "insideIcon": "cicon005"
+
+        }
+    ],
+    "cartoons":[
+        {
+            "id": 1,
+            "cartoon": {
+                "name": "movie001-rocket" 
+            },
+            "preview": {
+                "name": "pmovie001"
+            },
+            "drawImage": {
+                "name": "draw-the-fish"
+            },
+            "backImage": {
+                "name": "movie001-back"
+            },
+            "localization": {
+                "drawTextId": "id_draw_fish"
+            },
+            "categories": [
+                {
+                    "name": "underwater",
+                    "order": 1
+                },
+                {
+                    "name": "monster",
+                    "order": 7
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "cartoon": {
+                "name": "movie002-dinasaurs" 
+            },
+            "preview": {
+                "name": "pmovie002"
+            },
+            "drawImage": {
+                "name": "draw-the-flower"
+            },
+            "backImage": {
+                "name": "movie002-back"
+            },
+            "localization": {
+                "drawTextId": "id_draw_flower"
+            },
+            "categories": [
+                {
+                    "name": "dinasaurs",
+                    "order": 1
+                },
+                {
+                    "name": "monster",
+                    "order": 8
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "cartoon": {
+                "name": "movie003-fairy" 
+            },
+            "preview": {
+                "name": "pmovie003"
+            },
+            "drawImage": {
+                "name": "draw-the-sun"
+            },
+            "backImage": {
+                "name": "movie003-back"
+            },
+            "localization": {
+                "drawTextId": "id_draw_sun"
+            },
+            "categories": [
+                {
+                    "name": "space",
+                    "order": 3
+                },
+                {
+                    "name": "monster",
+                    "order": 1
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "cartoon": {
+                "name": "movie004-race" 
+            },
+            "preview": {
+                "name": "pmovie004"
+            },
+            "drawImage": {
+                "name": "draw-the-submarine"
+            },
+            "backImage": {
+                "name": "movie004-back"
+            },
+            "localization": {
+                "drawTextId": "id_draw_submarine"
+            },
+            "categories": [
+                {
+                    "name": "underwater",
+                    "order": 3
+                },
+                {
+                    "name": "monster",
+                    "order": 2
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "cartoon": {
+                "name": "movie005-cake" 
+            },
+            "preview": {
+                "name": "pmovie005"
+            },
+            "drawImage": {
+                "name": "draw-the-cake"
+            },
+            "backImage": {
+                "name": "movie005-back"
+            },
+            "localization": {
+                "drawTextId": "id_draw_cake"
+            },
+            "categories": [
+                {
+                    "name": "dinasaurs",
+                    "order": 2
+                },
+                {
+                    "name": "monster",
+                    "order": 3
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "cartoon": {
+                "name": "movie006-cat" 
+            },
+            "preview": {
+                "name": "pmovie006"
+            },
+            "drawImage": {
+                "name": "draw-the-cat"
+            },
+            "backImage": {
+                "name": "movie006-back"
+            },
+            "localization": {
+                "drawTextId": "id_draw_cat"
+            },
+            "categories": [
+                {
+                    "name": "space",
+                    "order": 2
+                },
+                {
+                    "name": "monster",
+                    "order": 4
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "cartoon": {
+                "name": "movie007-santastar" 
+            },
+            "preview": {
+                "name": "pmovie007"
+            },
+            "drawImage": {
+                "name": "draw-the-star"
+            },
+            "backImage": {
+                "name": "movie007-back"
+            },
+            "localization": {
+                "drawTextId": "id_draw_starfish"
+            },
+            "categories": [
+                {
+                    "name": "underwater",
+                    "order": 2
+                },
+                {
+                    "name": "monster",
+                    "order": 5
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "cartoon": {
+                "name": "movie008-birds" 
+            },
+            "preview": {
+                "name": "pmovie008"
+            },
+            "drawImage": {
+                "name": "draw-the-bird"
+            },
+            "backImage": {
+                "name": "movie008-back"
+            },
+            "localization": {
+                "drawTextId": "id_draw_bird"
+            },
+            "categories": [
+                {
+                    "name": "dinasaurs",
+                    "order": 3
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "cartoon": {
+                "name": "movie009-alien" 
+            },
+            "preview": {
+                "name": "pmovie009"
+            },
+            "drawImage": {
+                "name": "draw-the-house"
+            },
+            "backImage": {
+                "name": "movie009-back"
+            },
+            "localization": {
+                "drawTextId": "id_draw_house"
+            },
+            "categories": [
+                {
+                    "name": "space",
+                    "order": 1
+                },
+                {
+                    "name": "monster",
+                    "order": 6
+                }
+            ]
+        }
+
+    ]
+}
