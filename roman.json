@@ -24,27 +24,33 @@
     "people": [
         {
             "name": "Jomka",
-            "gender": "male"          
+            "gender": "male",
+            "age": 8          
         },
         {
             "name": "Artur",
-            "gender": "male"          
+            "gender": "male",
+            "age": 32          
         },
         {
             "name": "Alina",
-            "gender": "female"          
+            "gender": "female",
+            "age": 32          
         },
         {
-            "name": "Jomka",
-            "gender": "male"          
+            "name": "JoJo",
+            "gender": "male",
+            "age": 88          
         },
         {
-            "name": "Abakar",
-            "gender": "male"          
+            "name": "Abadina",
+            "gender": "male",
+            "age": 5         
         },
         {
             "name": "Jamila",
-            "gender": "female"          
+            "gender": "female",
+            "age": 77          
         }
     ]
 }
