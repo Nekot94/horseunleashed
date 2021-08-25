@@ -1,0 +1,50 @@
+{
+    "houses":[
+        {
+            "type": "living",
+            "color": "FFFFFF",
+            "floorCount": 2
+        },
+        {
+            "type": "hospital",
+            "color": "FF0000",
+            "floorCount": 2
+        },
+        {
+            "type": "school",
+            "color": "0000FF",
+            "floorCount": 4
+        },
+        {
+            "type": "townHall",
+            "color": "00FF00",
+            "floorCount": 4
+        }
+    ],
+    "people": [
+        {
+            "name": "Jomka",
+            "gender": "male"          
+        },
+        {
+            "name": "Artur",
+            "gender": "male"          
+        },
+        {
+            "name": "Alina",
+            "gender": "female"          
+        },
+        {
+            "name": "Jomka",
+            "gender": "male"          
+        },
+        {
+            "name": "Abakar",
+            "gender": "male"          
+        },
+        {
+            "name": "Jamila",
+            "gender": "female"          
+        }
+    ]
+}
